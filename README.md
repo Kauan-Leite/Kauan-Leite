@@ -11,7 +11,7 @@
 
 - ⚡ I love **The Lord of the Rings** 🧙‍♂️
 
-<!-- - 👨‍💻 More at my ! -->
+<!-- - 👨‍💻 More at ! -->
 
 <div align="left">
   <a href="https://github.com/Kauan-Leite">
