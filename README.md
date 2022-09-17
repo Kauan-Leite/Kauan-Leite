@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 More at ! -->
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/Kauan-Leite">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauan-Leite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </br>
   <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Leite&layout=compact&langs_count=7&theme=dark"/>
