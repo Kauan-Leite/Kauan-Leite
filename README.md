@@ -1,9 +1,9 @@
-left<!--
+<!--
 <img align="right" height="590em" src="https://media.contentapi.ea.com/content/dam/eacom/lost-in-random/images/2021/09/lir-game-explosive-dice-image.png.adapt.crop16x9.652w.png" />
 
 !-->
 
-<h1 align="right"> Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Kauan Leite </h1>
+<h1 align="left"> Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Kauan Leite </h1>
 
 - 🔥 Web Developer
 
