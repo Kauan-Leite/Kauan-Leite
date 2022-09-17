@@ -3,7 +3,7 @@
 
 !-->
 
-<h1 align="center"> Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Kauan Leite </h1>
+<h1 align="left"> Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Kauan Leite </h1>
 
 - 🔥 Web Developer
 
