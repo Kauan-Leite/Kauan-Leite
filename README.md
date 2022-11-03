@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estudando na [Trybe](https://www.betrybe.com/)
 
-- ⚡ I love **The Lord of the Rings** 🧙‍♂️
+- ⚡ Super Fã de **O Senhor Dos Anéis** 🧙‍♂️
 
 <!-- - 👨‍💻 More at ! -->
 
