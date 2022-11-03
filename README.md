@@ -3,11 +3,11 @@
 
 !-->
 
-<h1 align="left"> Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Kauan Leite </h1>
+<h1 align="left"> Olá <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, Eu sou o Kauan Leite </h1>
 
-- 🔥 Web Developer
+- 🔥 Desenvolvimento Web
 
-- 🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)
+- 🔭 Atualmente estudando na [Trybe](https://www.betrybe.com/)
 
 - ⚡ I love **The Lord of the Rings** 🧙‍♂️
 
