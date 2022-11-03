@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente estudando na [Trybe](https://www.betrybe.com/)
 
-- ⚡ Super Fã de **O Senhor Dos Anéis** 🧙‍♂️
+- ⚡ Super Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
 <!-- - 👨‍💻 More at ! -->
 
