@@ -25,7 +25,6 @@
   
   <div>
     <h2 align="center"> Ferramentas e Linguagens </h2>
-    <br/>
   <table align="center">
     <tr>
       <th><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" /></th>
