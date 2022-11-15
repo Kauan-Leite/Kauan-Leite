@@ -5,11 +5,11 @@
 
 <h1 align="left"> Olá <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, Eu sou o Kauan Leite </h1>
 
-- 🔥 Desenvolvimento Web
+- 🔥 Front-end
 
-- 🔭 Atualmente estudando na [Trybe](https://www.betrybe.com/)
+- 🔭 Estudante da Turma 22 - Tribo A | [Trybe](https://www.betrybe.com/)
 
-- ⚡ Super Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
+- ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
 <!-- - 👨‍💻 More at ! -->
 
