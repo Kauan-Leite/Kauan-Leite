@@ -54,6 +54,13 @@
       <th><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></th>
       <th><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></th>
     </tr>
+    <tr>
+      <th><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
   </table>
  </div>
   
