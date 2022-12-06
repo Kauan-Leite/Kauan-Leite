@@ -9,7 +9,7 @@
 
 - 🔭 Estudante da Turma 22 - Tribo A | [Trybe](https://www.betrybe.com/)
 
-- 🌱 Atualmente estudando **TypeScript**, **Programação Orientada a Objetos** e **SOLID**
+- 🌱 Atualmente estudando **MongoDB**
 
 - ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
