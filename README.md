@@ -14,12 +14,6 @@
 - ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
 <!-- - 👨‍💻 More at ! -->
-
-<!-- <div align="center">
-  <a href="https://github.com/Kauan-Leite">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauan-Leite&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Leite&layout=compact&theme=dark"/>
-</div> -->
   
   <br>
   
