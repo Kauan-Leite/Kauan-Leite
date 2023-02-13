@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <th><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></th>
-      <th></th>
+      <th><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /></th>
       <th></th>
       <th></th>
       <th></th>
