@@ -60,6 +60,8 @@
   
  </br>
  
+ [https://spotify-github-profile.vercel.app/api/view.svg?uid=u1a5y0ndvoynarp46zy3tqjo1&redirect=true]
+ 
 <div align="center">
   <h2 align="center"> Redes Sociais </h2>
   <a href = "https://www.instagram.com/kauansleite/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
