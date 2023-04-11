@@ -17,6 +17,10 @@
   
   <br>
   
+  [![Spotify](https://novatorem-m9grtej1o-kauan-leite.vercel.app/api/spotify)](https://open.spotify.com/user/Kauan)
+  
+  <br>
+  
   <div>
     <h2 align="center"> Ferramentas e Linguagens </h2>
   <table align="center">
