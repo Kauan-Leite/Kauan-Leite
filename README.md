@@ -17,10 +17,6 @@
   
   <br>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&redirect=true) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u1a5y0ndvoynarp46zy3tqjo1&count=5)
-  
-  <br>
-  
   <div>
     <h2 align="center"> Ferramentas e Linguagens </h2>
   <table align="center">
@@ -63,6 +59,10 @@
  </div>
   
  </br>
+ 
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&redirect=true) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u1a5y0ndvoynarp46zy3tqjo1&count=5)
+   
+ <br>
  
 <div align="center">
   <h2 align="center"> Redes Sociais </h2>
