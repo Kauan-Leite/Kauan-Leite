@@ -7,7 +7,7 @@
 
 - 🔥 Front-end
 
-- 🔭 Estudante da Turma 22 - Tribo A | [Trybe](https://www.betrybe.com/)
+- 🔭 Desenvolvedor FullStack na [Osten Moove](https://www.ostenmoove.com.br/)
 
 - 🌱 Atualmente estudando **Next.js**
 
