@@ -9,7 +9,7 @@
 
 - 🔭 Desenvolvedor FullStack na [Osten Moove](https://www.ostenmoove.com.br/)
 
-- 🌱 Atualmente estudando **Next.js** e **Styled Components**
+- 🌱 Atualmente estudando **Prisma**
 
 - ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
