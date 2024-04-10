@@ -5,11 +5,11 @@
 
 <h1 align="left"> Olá <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, Eu sou o Kauan Leite </h1>
 
-- 🔥 Front-end
+- 🔥 FullStack
 
 - 🔭 Desenvolvedor FullStack na [Osten Moove](https://www.ostenmoove.com.br/)
 
-- 🌱 Atualmente estudando **TypeORM**
+- 🌱 Atualmente estudando **Kubernetes**
 
 - ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
