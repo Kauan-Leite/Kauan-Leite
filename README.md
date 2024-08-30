@@ -60,7 +60,7 @@
   
  </br>
  
-<!--    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&redirect=true) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u1a5y0ndvoynarp46zy3tqjo1&count=6)aaa -->
+<!--    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=u1a5y0ndvoynarp46zy3tqjo1&redirect=true) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u1a5y0ndvoynarp46zy3tqjo1&count=6)aa -->
    
  <br>
  
