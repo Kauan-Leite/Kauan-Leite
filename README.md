@@ -9,7 +9,7 @@
 
 - 🔭 Desenvolvedor FullStack na [Osten Moove](https://www.ostenmoove.com.br/)
 
-- 🌱 Atualmente estudando **React Native**
+- 🌱 Atualmente estudando **React Native** e **Kotlin**
 
 - ⚡ Fã de **O Senhor Dos Anéis** 🧙‍♂️ e **One Piece** :pirate_flag:
 
