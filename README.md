@@ -5,7 +5,7 @@
 
 <h1 align="left"> Olá <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, Eu sou o Kauan Leite </h1>
 
-- 🔥 FullStack
+- 🔥 FullStack Developer
 
 - 🔭 Desenvolvedor FullStack na [Osten Moove](https://www.ostenmoove.com.br/)
 
