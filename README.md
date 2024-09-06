@@ -1,4 +1,4 @@
-<!--
+<!-- 
 <img  align="right" height="590em" src="https://media.contentapi.ea.com/content/dam/eacom/lost-in-random/images/2021/09/lir-game-explosive-dice-image.png.adapt.crop16x9.652w.png" />
 
 !-->
