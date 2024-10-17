@@ -3,6 +3,8 @@
 
 !-->
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <h1 align="left"> Olá <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, Eu sou o Kauan Leite </h1>
 
 - 🔥 FullStack Developer
