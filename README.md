@@ -15,10 +15,6 @@
 
   </div>
 
- <!--
-  Nice too meet everyone
-  -->
-
   ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=Kauan-Leite&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
