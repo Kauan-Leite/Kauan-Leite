@@ -16,7 +16,7 @@
   </div>
 
  <!--
-  Nice too meet
+  Nice too meet everyone
   -->
 
   ##
